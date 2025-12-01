@@ -18,7 +18,7 @@ public class leftside0andrightside1 {
         }
         for(int i=0; i<b; i++)
         {
-            System.out.print(temp[i]+" ");
+            System.out.println(temp[i]+" ");
         }
     }
 }
